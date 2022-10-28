@@ -1,2 +1,2 @@
-# Info
-project https://scratch.mit.edu/projects/752697285
+# Notes
+Everything here is subject to change and nothing here is final
